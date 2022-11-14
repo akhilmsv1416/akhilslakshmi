@@ -1,0 +1,28 @@
+           commamds to follow (git)
+
+1.git clone github url (repositry)
+
+2.cd spach locial ripositry name to enter into local ripositry
+
+3.touch space file name
+
+4.git spache add space add all files
+
+5.git spach commit -m  discription  add discription add file
+
+6.git push add files to remot riposatry 'defolt brnch'
+
+7.git spach check ripositry status
+
+8.git branch check branchs list
+
+9.git branch spch ,branch name.
+
+10.git chacekout: spach branch name
+
+11.git push -u origin branch name
+
+12.git pull 
+ 
+13.git pull branch to branch
+
